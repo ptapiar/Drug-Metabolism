@@ -8,14 +8,16 @@ With the predictor we can determine the bacterial enzymes involved on the metabo
 Thereby, a second stage of predictor is necessary to improve the initial dataset.
 
 
-Requirements:
+## Requirements:
 - Install Open Babel
 - Install R
 - Download script folder 'Drug-Metabolism-Predictor': https://drive.google.com/drive/folders/1_68YvG_yFzVks-Lm_Qxr4BXIsTPMOdMy
 
 
-How to use:
+## How to use:
  1) Download the query molecules as SDF format (PubChem)
  2) Modify the directories input parameters on run-predictor.sh file.
  3) To run: sh run-predictor.sh
 
+## Test example 
+   Download 'Test-files' folder: https://drive.google.com/drive/folders/1_68YvG_yFzVks-Lm_Qxr4BXIsTPMOdMy
